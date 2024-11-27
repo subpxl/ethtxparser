@@ -73,7 +73,10 @@ curl "http://localhost:8000/transactions?address=0xdD93e92dc32d0B2F51430b0e6dA29
 1 add sender address and privateky and reciever addresses to transactions.go
 2 upadte values in run.sh for addresses
 3 ./run.sh
- 
+
+
+## Etherium JSONRPC Test
+replace url with etherium jsonrpc url or update same  in .env file 
 
 
 # Project structure
